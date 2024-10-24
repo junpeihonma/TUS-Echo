@@ -7,7 +7,7 @@ collect a real echo dataset, which we call TUS-Echo.
 Data Collection System. The overview of our data collection
 system is shown in figure below.
 
-
+<img width="446" alt="35_2" src="https://github.com/user-attachments/assets/a98396fe-6f61-417c-b849-0f7f1795dc32">
 
 Our system consists of sensors and
 sound acquisition devices mounted on a stable cart with suspension.
