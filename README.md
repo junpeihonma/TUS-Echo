@@ -4,6 +4,9 @@ To the best of our knowledge, there is no publicly available dataset that can be
 
 <img width="600" alt="top_image" src="https://github.com/user-attachments/assets/51df21b2-17f8-4e3f-b33c-07d3e5a6a038">
 
+{: align="center"}
+![my image]("https://github.com/user-attachments/assets/51df21b2-17f8-4e3f-b33c-07d3e5a6a038")
+
 ## Data Collection System.
 The overview of our data collection system is shown in figure below.
 Our system consists of sensors and
