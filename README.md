@@ -2,7 +2,7 @@
 
 To the best of our knowledge, there is no publicly available dataset that can be used to evaluate the performance of ultrasonic echo-based depth estimation. We therefore build a data collection system and collect a real echo dataset, which we call TUS-Echo. It consists of audible echoes observed indoors with general chirps above 1hz, ultrasonic echoes observed with chirps above 20kHz, RGB images, and depth maps.
 
-<img width="600" alt="top_image" src="https://github.com/user-attachments/assets/51df21b2-17f8-4e3f-b33c-07d3e5a6a038">
+<p align="center"><img width="600" alt="top_image" src="https://github.com/user-attachments/assets/51df21b2-17f8-4e3f-b33c-07d3e5a6a038"></p>
 
 ## Data Collection System.
 The overview of our data collection system is shown in figure below.
