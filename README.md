@@ -6,9 +6,6 @@ To the best of our knowledge, there is no publicly available dataset that can be
 
 ## Data Collection System.
 The overview of our data collection system is shown in figure below.
-
-<img width="650" alt="38" src="https://github.com/user-attachments/assets/910236b3-f9e9-4f2d-869f-1489e1d7ac5f">
-
 Our system consists of sensors and
 sound acquisition devices mounted on a stable cart with suspension.
 Four omni-directional ultrasonic microphones (Earthworks M30)
@@ -20,6 +17,8 @@ of the echoes, and to accomplish this, the time difference of arrival
 in each of the three directions relative to the reference microphone
 needs to be measured. A depth camera (Intel RealSense D400) is
 placed in front of the cart for acquiring ground truth depth maps.
+
+<img width="500" alt="38" src="https://github.com/user-attachments/assets/910236b3-f9e9-4f2d-869f-1489e1d7ac5f">
 
 # Data Collection.
 
@@ -38,5 +37,4 @@ sufficiently long to accommodate the chirp echoes. We collected
 the data at 1,000 distinct locations and orientations, resulting in the
 number of samples is 1,000 originated from different room impulse
 responses (RIRs). We split the data into training/validation and test
-sets in the ratio of 9:1 (896 and 104, respectively). A few examples
-of the depth maps in our dataset are visualized in Fig. 3b.
+sets in the ratio of 9:1 (896 and 104, respectively).
