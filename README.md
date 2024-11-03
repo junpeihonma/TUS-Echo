@@ -3,12 +3,12 @@
 We therefore build a data collection system and
 collect a real echo dataset, which we call TUS-Echo.
 
-
+<img width="430" alt="top_image" src="https://github.com/user-attachments/assets/51df21b2-17f8-4e3f-b33c-07d3e5a6a038">
 
 ## Data Collection System.
 The overview of our data collection system is shown in figure below.
 
-<img width="446" alt="35_2" src="https://github.com/user-attachments/assets/a98396fe-6f61-417c-b849-0f7f1795dc32">
+<img width="446" alt="collection" src="https://github.com/user-attachments/assets/a98396fe-6f61-417c-b849-0f7f1795dc32">
 
 Our system consists of sensors and
 sound acquisition devices mounted on a stable cart with suspension.
