@@ -1,11 +1,12 @@
 # TUS-Echo
 
-TUS-ECHO: COLLECTION OF REAL ECHO DATA
-
 We therefore build a data collection system and
 collect a real echo dataset, which we call TUS-Echo.
-Data Collection System. The overview of our data collection
-system is shown in figure below.
+
+
+
+## Data Collection System.
+The overview of our data collection system is shown in figure below.
 
 <img width="446" alt="35_2" src="https://github.com/user-attachments/assets/a98396fe-6f61-417c-b849-0f7f1795dc32">
 
@@ -20,7 +21,9 @@ of the echoes, and to accomplish this, the time difference of arrival
 in each of the three directions relative to the reference microphone
 needs to be measured. A depth camera (Intel RealSense D400) is
 placed in front of the cart for acquiring ground truth depth maps.
-Data Collection. The recording environment is a near-rectangular
+
+# Data Collection.
+The recording environment is a near-rectangular
 reverberant studio of 4 m (width) × 10 m (depth) × 3 m (height). We
 emitted two types of up-chirp signals from the loudspeaker at each
 recording location and direction in the studio; one was an ultrasonic
