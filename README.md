@@ -4,9 +4,6 @@ To the best of our knowledge, there is no publicly available dataset that can be
 
 <img width="600" alt="top_image" src="https://github.com/user-attachments/assets/51df21b2-17f8-4e3f-b33c-07d3e5a6a038">
 
-{: align="center"}
-![my image]("https://github.com/user-attachments/assets/51df21b2-17f8-4e3f-b33c-07d3e5a6a038")
-
 ## Data Collection System.
 The overview of our data collection system is shown in figure below.
 Our system consists of sensors and
@@ -21,9 +18,9 @@ in each of the three directions relative to the reference microphone
 needs to be measured. A depth camera (Intel RealSense D400) is
 placed in front of the cart for acquiring ground truth depth maps.
 
-<div style="text-align: center;">
+<center>
 <img width="500" alt="38" src="https://github.com/user-attachments/assets/910236b3-f9e9-4f2d-869f-1489e1d7ac5f">
-</div>
+</center>
 
 ## Data Collection.
 
