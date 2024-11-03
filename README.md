@@ -18,9 +18,11 @@ in each of the three directions relative to the reference microphone
 needs to be measured. A depth camera (Intel RealSense D400) is
 placed in front of the cart for acquiring ground truth depth maps.
 
+<div style="text-align: center;">
 <img width="500" alt="38" src="https://github.com/user-attachments/assets/910236b3-f9e9-4f2d-869f-1489e1d7ac5f">
+</div>
 
-# Data Collection.
+## Data Collection.
 
 <img width="600" alt="38" src="https://github.com/user-attachments/assets/75133682-3a75-4671-a62d-e25ebde2c2c5">
 
