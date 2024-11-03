@@ -8,7 +8,6 @@ To the best of our knowledge, there is no publicly available dataset that can be
 The overview of our data collection system is shown in figure below.
 Our system consists of sensors and
 sound acquisition devices mounted on a stable cart with suspension.
-
 Four omni-directional ultrasonic microphones (Earthworks M30)
 are mounted in a tetrapod shape using clamp arms, and these and
 an ultrasound-compatible high-resolution loudspeaker (EDIFIER
