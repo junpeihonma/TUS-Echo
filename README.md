@@ -8,6 +8,7 @@ To the best of our knowledge, there is no publicly available dataset that can be
 The overview of our data collection system is shown in figure below.
 Our system consists of sensors and
 sound acquisition devices mounted on a stable cart with suspension.
+
 Four omni-directional ultrasonic microphones (Earthworks M30)
 are mounted in a tetrapod shape using clamp arms, and these and
 an ultrasound-compatible high-resolution loudspeaker (EDIFIER
@@ -39,3 +40,6 @@ responses (RIRs). We split the data into training/validation and test
 sets in the ratio of 9:1 (896 and 104, respectively).
 
 <p align="center"><img width="600" alt="38" src="https://github.com/user-attachments/assets/75133682-3a75-4671-a62d-e25ebde2c2c5"></p>
+
+## Acknowledgements
+This work was partially supported by JSPS KAKENHI Grant Number 23K11154.
