@@ -1,14 +1,13 @@
 # TUS-Echo
 
-We therefore build a data collection system and
-collect a real echo dataset, which we call TUS-Echo.
+To the best of our knowledge, there is no publicly available dataset that can be used to evaluate the performance of ultrasonic echo-based depth estimation. We therefore build a data collection system and collect a real echo dataset, which we call TUS-Echo. It consists of audible echoes observed indoors with general chirps above 1hz, ultrasonic echoes observed with chirps above 20kHz, RGB images, and depth maps.
 
 <img width="600" alt="top_image" src="https://github.com/user-attachments/assets/51df21b2-17f8-4e3f-b33c-07d3e5a6a038">
 
 ## Data Collection System.
 The overview of our data collection system is shown in figure below.
 
-<img width="600" alt="collection" src="https://github.com/user-attachments/assets/a98396fe-6f61-417c-b849-0f7f1795dc32">
+<img width="650" alt="38" src="https://github.com/user-attachments/assets/910236b3-f9e9-4f2d-869f-1489e1d7ac5f">
 
 Our system consists of sensors and
 sound acquisition devices mounted on a stable cart with suspension.
@@ -23,6 +22,9 @@ needs to be measured. A depth camera (Intel RealSense D400) is
 placed in front of the cart for acquiring ground truth depth maps.
 
 # Data Collection.
+
+<img width="600" alt="38" src="https://github.com/user-attachments/assets/75133682-3a75-4671-a62d-e25ebde2c2c5">
+
 The recording environment is a near-rectangular
 reverberant studio of 4 m (width) × 10 m (depth) × 3 m (height). We
 emitted two types of up-chirp signals from the loudspeaker at each
