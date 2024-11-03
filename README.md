@@ -23,9 +23,6 @@ placed in front of the cart for acquiring ground truth depth maps.
 </p>
 
 ## Data Collection.
-
-<img width="600" alt="38" src="https://github.com/user-attachments/assets/75133682-3a75-4671-a62d-e25ebde2c2c5">
-
 The recording environment is a near-rectangular
 reverberant studio of 4 m (width) × 10 m (depth) × 3 m (height). We
 emitted two types of up-chirp signals from the loudspeaker at each
@@ -40,3 +37,5 @@ the data at 1,000 distinct locations and orientations, resulting in the
 number of samples is 1,000 originated from different room impulse
 responses (RIRs). We split the data into training/validation and test
 sets in the ratio of 9:1 (896 and 104, respectively).
+
+<p align="center"><img width="600" alt="38" src="https://github.com/user-attachments/assets/75133682-3a75-4671-a62d-e25ebde2c2c5"></p>
